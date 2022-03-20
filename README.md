@@ -5,7 +5,6 @@
 ![Kang HeeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH2Wone&show_icons=true&theme=radical)
 
 ### Skill
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,17 +14,12 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-### Design Tool
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
 ### etc.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### [The reason I became a developer 👩🏻‍💻](https://habitual-history.tistory.com/entry/%EC%9C%84%EC%BD%94%EB%93%9C-%ED%9A%8C%EA%B3%A0-2-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%97%90-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%96%88%EB%8A%94%EB%8D%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%98%EA%B2%8C-%EB%90%90%EB%8B%A4)
