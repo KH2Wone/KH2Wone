@@ -19,10 +19,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-### [The reason I became a developer 👩🏻‍💻](https://habitual-history.tistory.com/entry/%EC%9C%84%EC%BD%94%EB%93%9C-%ED%9A%8C%EA%B3%A0-2-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%97%90-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%96%88%EB%8A%94%EB%8D%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%ED%95%98%EA%B2%8C-%EB%90%90%EB%8B%A4)
-
-
 ### Contact
 <a href="kkhw1202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D42E35?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://habitual-history.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EB531F?style=flat-square&logo=blog&logoColor=white"/></a>
