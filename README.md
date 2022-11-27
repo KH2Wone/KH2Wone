@@ -8,4 +8,4 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKH2Wone%2FKH2Wone.git&count_bg=%23FF5656&title_bg=%23565656&icon=javascript.svg&icon_color=%23FFE703&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKH2Wone%2FKH2Wone.git&count_bg=%23FF5656&title_bg=%23565656&icon_color=%23FFE703&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
